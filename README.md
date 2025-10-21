@@ -1,15 +1,2 @@
-# Artificial-Intelligence
-📘 Description
-
-The program reads a maze from a text file (maze.txt), where:
-
-A represents the start point
-
-B represents the goal point
-
-█ (or # / any other non-space character) represents walls
-
-Spaces ( ) represent paths
-
-It then uses a frontier-based search algorithm to explore possible paths and find a valid solution.
-By default, it uses Depth-First Search (DFS) through the StackFrontier class, but you can switch to QueueFrontier for Breadth-First Search (BFS).
+This project is a Python-based Maze Solver that reads a maze from a text file and finds a path from start to goal. 🧩It uses Depth-First Search (DFS) to explore possible routes through the maze efficiently.The program visually represents the maze and the solution path in both the console and as an image output. 🧠It demonstrates concepts of graph traversal, backtracking, and state exploration.
+Perfect for understanding how search algorithms work in problem-solving and pathfinding applications. 🚀

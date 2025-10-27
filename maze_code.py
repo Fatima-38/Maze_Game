@@ -1,3 +1,6 @@
+# ---- Maze Game Implementation ----
+# This code defines a Maze.
+
 import sys
 
 class Node():                    #ye ek node class hai jo state, parent node aur action ko represent karta hai

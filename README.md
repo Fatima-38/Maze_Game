@@ -1,9 +1,3 @@
-📘 🧩 Maze Game Description
+🧩 Maze Game Description
 
-The program reads a maze from a text file (maze.txt), where:
-A represents the start point
-B represents the goal point
-█ (or # / any other non-space character) represents walls
-Spaces ( ) represent paths
-It then uses a frontier-based search algorithm to explore possible paths and find a valid solution.
-By default, it uses Depth-First Search (DFS) through the StackFrontier class, but you can switch to QueueFrontier for Breadth-First Search (BFS).
+This Python program is a Maze Game that reads a maze layout from a text file (maze.txt). In the maze, the letter A marks the start point, B marks the goal, █ (or # or any other non-space character) represents walls, and spaces represent open paths. The program uses a frontier-based search algorithm to explore possible routes from the start to the goal. By default, it employs Depth-First Search (DFS) through the StackFrontier class, but it can easily be switched to Breadth-First Search (BFS) by using the QueueFrontier class instead. This allows users to visualize and compare different pathfinding strategies within the same maze framework.💡🧠

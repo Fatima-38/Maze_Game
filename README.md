@@ -1,10 +1,10 @@
 # Artificial-Intelligence
-
-📘 🧩Maze Game Description
+📘 Description
 
 The program reads a maze from a text file (maze.txt), where:
 
 A represents the start point
+
 B represents the goal point
 
 █ (or # / any other non-space character) represents walls
